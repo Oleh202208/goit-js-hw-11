@@ -109,7 +109,7 @@ function notifixForMessage(arrOfImages, totalHits) {
 
 const options = {
   root: null,
-  rootMargin: '250px',
+  rootMargin: '500px',
   threshold: 1.0,
 };
 
