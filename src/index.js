@@ -13,7 +13,6 @@ let gallery = new SimpleLightbox('div.gallery a', {
 const form = document.querySelector('#search-form');
 const divGallery = document.querySelector('.gallery');
 const input = document.querySelector('input');
-
 const divGuard = document.querySelector('.js-guard');
 
 form.addEventListener('submit', onSubmitForm);
